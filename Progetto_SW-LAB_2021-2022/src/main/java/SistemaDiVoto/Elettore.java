@@ -1,12 +1,11 @@
 package SistemaDiVoto;
 
 /**
- * OVERVIEW: Le istanze di questa classe rappresentano un elettore di una
- * sessione di voto. Questa classe estende la classe User assorbendone i
- * comportamenti e campi. Si tratta di una versione embrionale della classe
- * Elettore finale. L'idea è quella di dare una visione generica del
- * comportamento degli oggetti Elettore. Ogni elettore un votare una e una sola
- * volta. Le istanze sono mutabili.
+ * OVERVIEW: Le istanze di questa classe rappresentano un elettore di una sessione di voto. 
+ *           Questa classe estende la classe User assorbendone i comportamenti e campi. 
+ *           Si tratta di una versione embrionale della classe Elettore finale. L'idea è quella di dare una visione generica del comportamento degli oggetti Elettore. 
+ *           Ogni elettore un votare una e una sola volta. 
+ *           Le istanze sono mutabili.
  */
 public class Elettore extends User {
 
