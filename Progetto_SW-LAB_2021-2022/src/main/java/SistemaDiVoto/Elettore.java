@@ -1,3 +1,5 @@
+package SistemaDiVoto;
+
 /**
  * OVERVIEW: Le istanze di questa classe rappresentano un elettore di una
  * sessione di voto. Questa classe estende la classe User assorbendone i

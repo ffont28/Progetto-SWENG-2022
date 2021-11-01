@@ -1,3 +1,5 @@
+package SistemaDiVoto;
+
 /**
  * OVERVIEW: Le istanze di questa classe astratta rappresentano un utente del
  * sistema di voto. Un utente è identificato da un Nome e da un Cognome, e in
